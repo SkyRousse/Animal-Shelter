@@ -1,0 +1,28 @@
+.column {
+  width:30%;
+  float: left;
+  margin:1%;
+  padding: .5%;
+}
+
+.column img {
+  width: 100%;
+}
+
+.column h3 {
+  font-style: italic;
+  font-weight: bold;
+  color: #AB5634;
+}
+
+.column p {
+  font-style: oblique;
+  color: #332C26;
+}
+h3 {
+  font-size: 18px;
+  color :red;
+}
+p{
+  color: blue
+}
